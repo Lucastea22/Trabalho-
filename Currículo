@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #740606;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            padding: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #000000;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            color: #740606;
+        }
+        ul {
+            list-style-type: square;
+            margin: 0;
+            padding-left: 20px;
+        }
+        p, li {
+            line-height: 1.5;
+        }
+        footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #555;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lucas Tadeu de Souza Fernandes</h1>
+        <p>Email: Lucastadeu805@gmail.com | Telefone: (31) 98325-8191</p>
+        <p>Endereço: Rua Paraíba, Nº 185, Pará de Minas, Minas Gerais</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Objetivo</h2>
+            <p>Utilizar minha experiência em desenvolvimento de sistemas para entregar soluções inovadoras, contribuir para o crescimento da organização e adquirir novos conhecimentos na área de tecnologia.</p>
+        </section>
+
+        <section>
+            <h2>Experiência Profissional</h2>
+            <ul>
+                <li><strong>NeuraTech Solutions</strong> (03/2026 - 12/2030)</li>
+                <p>Projetar e implementar sistemas de alta performance; liderar equipes técnicas em projetos ágeis; resolver problemas críticos de software.</p>
+                <li><strong>Quantum Byte</strong> (01/2030 - 07/2035)</li>
+                <p>Desenvolver soluções baseadas em inteligência artificial; otimizar algoritmos para análise de dados; colaborar na criação de aplicativos inteligentes.</p>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Educação</h2>
+            <ul>
+                <li><strong>Escola Estadual Manoel Batista</strong> - Desenvolvimento de Sistemas (02/2019 - 12/2025)</li>
+                <li><strong>Universidade UNA (Divinópolis)</strong> - Ciências da Computação (02/2027 - 12/2032)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Programação em múltiplas linguagens, incluindo Python e JavaScript</li>
+                <li>Gestão de projetos com metodologias ágeis (Scrum e Kanban)</li>
+                <li>Integração e análise de sistemas baseados em inteligência artificial</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 - Lucas Tadeu de Souza Fernandes</p>
+    </footer>
+</body>
+</html>
